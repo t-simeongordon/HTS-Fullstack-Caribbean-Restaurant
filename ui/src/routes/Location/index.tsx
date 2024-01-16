@@ -1,8 +1,11 @@
+import { Route, Routes } from "react-router-dom"
+
 const Location =()=> {
     return(
-        <>
-        Location
-        </>
+        <Routes>
+            <Route index element={<>Location</>}/>
+            <Route path="london" element={<>london</>}/>
+        </Routes>
     )
 }
 
