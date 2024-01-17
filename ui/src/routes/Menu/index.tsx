@@ -1,7 +1,10 @@
+import MenuList from "./MenuList"
+
 const Menu =()=> {
     return(
         <>
-        Menu
+            <div>menu</div>
+            <MenuList itemsPerPage={3}/>
         </>
     )
 }

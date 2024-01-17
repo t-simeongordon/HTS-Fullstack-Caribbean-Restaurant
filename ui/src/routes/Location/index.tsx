@@ -5,6 +5,7 @@ const Location =()=> {
         <Routes>
             <Route index element={<>Location</>}/>
             <Route path="london" element={<>london</>}/>
+            <Route path="manchester" element={<>manchester</>}/>
         </Routes>
     )
 }
