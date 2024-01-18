@@ -8,7 +8,7 @@ const MenuList = (prop:any) => {
     const { itemsPerPage } = prop
   const [currentPage, setCurrentPage] = useState(1);
 
-  const handlePageChange = (newPage: React.SetStateAction<number>) => {
+  const handlePageChange = (newPage: number) => {
     setCurrentPage(newPage);
   };
 
