@@ -1,5 +1,6 @@
 import React from 'react';
 import { Outlet, useNavigate } from 'react-router-dom';
+import Footer from './components/footer';
 
 
 const App = () => {
@@ -13,12 +14,9 @@ const App = () => {
   return (
     // <div>hello ************</div>
     <div>
-      {/* Header, navigation, etc. */}
-      <button onClick={() => handleHistory('back')}>Back</button>
-      <button onClick={() => handleHistory('forward')}>Forward</button>
+      <p>header</p>
       <Outlet/>
-     
-            {/* Footer, etc. */}
+      <Footer/>
     </div>
   );
 };

@@ -1,0 +1,40 @@
+.carousel-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    /* Customize width as needed */
+  }
+  
+  .carousel-items {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .carousel-items .active {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  
+  .carousel-items .active ~ * {
+    opacity: 0.5;
+    transform: translateX(-100%);
+  }
+  
+  button {
+    margin: 0 10px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Optional styles for arrows or dots */
+  
+  .carousel-arrow {
+    /* Styles for arrow buttons */
+  }
+  
+  .carousel-dot {
+    /* Styles for dot navigation */
+  }
+  
