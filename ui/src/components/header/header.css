@@ -1,0 +1,22 @@
+.header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .tabs {
+    display: flex;
+  }
+  
+  .tab {
+    margin-right: 20px;
+    cursor: pointer;
+  }
+  
+  .tab:hover {
+    text-decoration: underline;
+  }
+  
