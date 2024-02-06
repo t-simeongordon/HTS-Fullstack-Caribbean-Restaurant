@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-02-05T03:39:58.690Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.21 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="TtX8WFboZ9pD4o65hhAv" version="22.1.21" type="device">
+<mxfile host="Electron" modified="2024-02-05T03:36:23.951Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.21 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="hA9Ywot7qaEEbpIKIqqz" version="22.1.21" type="device">
   <diagram name="Page-1" id="pgOAjnQuH154pYLEmXAU">
     <mxGraphModel dx="954" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -151,14 +151,8 @@
         <mxCell id="h5oyrVwNYH3Xr9QI-L8u-50" value="Release management processes." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2615" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h5oyrVwNYH3Xr9QI-L8u-51" value="Infrastructure as code/&lt;br&gt;containerisation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="h5oyrVwNYH3Xr9QI-L8u-51" value="Infrastructure as code/&lt;br&gt;containerisation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="930" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h5oyrVwNYH3Xr9QI-L8u-53" value="CI/CD/GitOps" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1375" y="930" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h5oyrVwNYH3Xr9QI-L8u-54" value="Sonarqube" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1785" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
