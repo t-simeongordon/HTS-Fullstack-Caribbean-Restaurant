@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-02-05T02:43:36.526Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.21 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="oWt2sdDE_yh_RkHrutw2" version="22.1.21" type="device">
+<mxfile host="Electron" modified="2024-02-05T03:54:06.157Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.21 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="B6UHhmQTndd6yjX0UnSY" version="22.1.21" type="device">
   <diagram name="Page-1" id="BVWzdyNhfs3TEidd_FkI">
     <mxGraphModel dx="1272" dy="1966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,28 +113,28 @@
         <mxCell id="LcC0wvhOLM8QLU7ZE8Cu-27" value="Browser flow" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="-80" width="520" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="LcC0wvhOLM8QLU7ZE8Cu-28" value="New food feature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="LcC0wvhOLM8QLU7ZE8Cu-27" vertex="1">
+        <mxCell id="LcC0wvhOLM8QLU7ZE8Cu-28" value="New food feature" style="rounded=1;whiteSpace=wrap;html=1;" parent="LcC0wvhOLM8QLU7ZE8Cu-27" vertex="1">
           <mxGeometry x="60" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LcC0wvhOLM8QLU7ZE8Cu-29" value="Home" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="LcC0wvhOLM8QLU7ZE8Cu-27" vertex="1">
           <mxGeometry x="220" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LcC0wvhOLM8QLU7ZE8Cu-30" value="Order food feature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="LcC0wvhOLM8QLU7ZE8Cu-27" vertex="1">
+        <mxCell id="LcC0wvhOLM8QLU7ZE8Cu-30" value="Order food feature" style="rounded=1;whiteSpace=wrap;html=1;" parent="LcC0wvhOLM8QLU7ZE8Cu-27" vertex="1">
           <mxGeometry x="220" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LcC0wvhOLM8QLU7ZE8Cu-31" value="Ways to eat with us feature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="LcC0wvhOLM8QLU7ZE8Cu-27" vertex="1">
+        <mxCell id="LcC0wvhOLM8QLU7ZE8Cu-31" value="Ways to eat with us feature" style="rounded=1;whiteSpace=wrap;html=1;" parent="LcC0wvhOLM8QLU7ZE8Cu-27" vertex="1">
           <mxGeometry x="380" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LcC0wvhOLM8QLU7ZE8Cu-32" value="Promotion events feature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="LcC0wvhOLM8QLU7ZE8Cu-27" vertex="1">
+        <mxCell id="LcC0wvhOLM8QLU7ZE8Cu-32" value="Promotion events feature" style="rounded=1;whiteSpace=wrap;html=1;" parent="LcC0wvhOLM8QLU7ZE8Cu-27" vertex="1">
           <mxGeometry x="60" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LcC0wvhOLM8QLU7ZE8Cu-33" value="Location feature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="LcC0wvhOLM8QLU7ZE8Cu-27" vertex="1">
+        <mxCell id="LcC0wvhOLM8QLU7ZE8Cu-33" value="Location feature" style="rounded=1;whiteSpace=wrap;html=1;" parent="LcC0wvhOLM8QLU7ZE8Cu-27" vertex="1">
           <mxGeometry x="220" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LcC0wvhOLM8QLU7ZE8Cu-34" value="Rewards feature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="LcC0wvhOLM8QLU7ZE8Cu-27" vertex="1">
+        <mxCell id="LcC0wvhOLM8QLU7ZE8Cu-34" value="Rewards feature" style="rounded=1;whiteSpace=wrap;html=1;" parent="LcC0wvhOLM8QLU7ZE8Cu-27" vertex="1">
           <mxGeometry x="380" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LcC0wvhOLM8QLU7ZE8Cu-37" value="Offers feature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="LcC0wvhOLM8QLU7ZE8Cu-27" vertex="1">
+        <mxCell id="LcC0wvhOLM8QLU7ZE8Cu-37" value="Offers feature" style="rounded=1;whiteSpace=wrap;html=1;" parent="LcC0wvhOLM8QLU7ZE8Cu-27" vertex="1">
           <mxGeometry x="220" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LcC0wvhOLM8QLU7ZE8Cu-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="LcC0wvhOLM8QLU7ZE8Cu-13" edge="1">
@@ -160,6 +160,9 @@
         </mxCell>
         <mxCell id="LcC0wvhOLM8QLU7ZE8Cu-110" value="place order" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="LcC0wvhOLM8QLU7ZE8Cu-49" vertex="1">
           <mxGeometry x="80" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GBhF5NDWkhReSz5QS2p8-32" value="drinks options" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="LcC0wvhOLM8QLU7ZE8Cu-49">
+          <mxGeometry x="241" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LcC0wvhOLM8QLU7ZE8Cu-58" value="Browser flow" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="1730" width="500" height="400" as="geometry" />
@@ -318,6 +321,9 @@
               <mxPoint x="260" y="200" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GBhF5NDWkhReSz5QS2p8-31" value="Order" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="LcC0wvhOLM8QLU7ZE8Cu-96">
+          <mxGeometry x="50" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GBhF5NDWkhReSz5QS2p8-1" value="Browser flow" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1110" width="500" height="520" as="geometry" />

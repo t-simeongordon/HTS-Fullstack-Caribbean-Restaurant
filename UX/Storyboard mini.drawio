@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-02-05T02:09:09.963Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.21 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="_loPpoYq5bjrtcm3Tgm7" version="22.1.21" type="device">
+<mxfile host="Electron" modified="2024-02-07T18:05:11.963Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.21 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="DIJB_uHlAN8wXEFqW5Em" version="22.1.21" type="device">
   <diagram name="Page-1" id="hm3uyPrd8fNTFut98EQX">
-    <mxGraphModel dx="1781" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2099" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,6 +200,37 @@
             <Array as="points">
               <mxPoint x="380" y="240" />
               <mxPoint x="-28" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5V7c0qD0Mub0ROwJQTRY-68" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="920" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5V7c0qD0Mub0ROwJQTRY-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="5V7c0qD0Mub0ROwJQTRY-68">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5V7c0qD0Mub0ROwJQTRY-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="5V7c0qD0Mub0ROwJQTRY-68">
+          <mxGeometry width="120" height="17.77777777777778" as="geometry" />
+        </mxCell>
+        <mxCell id="5V7c0qD0Mub0ROwJQTRY-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="5V7c0qD0Mub0ROwJQTRY-68">
+          <mxGeometry x="20" y="26.666666666666664" width="80" height="8.88888888888889" as="geometry" />
+        </mxCell>
+        <mxCell id="5V7c0qD0Mub0ROwJQTRY-72" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="5V7c0qD0Mub0ROwJQTRY-68">
+          <mxGeometry x="20" y="44.44444444444444" width="26" height="26.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="5V7c0qD0Mub0ROwJQTRY-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="5V7c0qD0Mub0ROwJQTRY-68">
+          <mxGeometry x="60" y="44.44444444444444" width="40" height="26.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="5V7c0qD0Mub0ROwJQTRY-74" value="Table booking Page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="905" y="290" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5V7c0qD0Mub0ROwJQTRY-75" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.513;entryY=-0.189;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5V7c0qD0Mub0ROwJQTRY-2" target="5V7c0qD0Mub0ROwJQTRY-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="370" as="sourcePoint" />
+            <mxPoint x="760" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="240" />
+              <mxPoint x="972" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
