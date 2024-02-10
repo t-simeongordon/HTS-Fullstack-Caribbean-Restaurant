@@ -9,6 +9,10 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/hts/inventory")
 public class InventoryController {
 
+    @GetMapping("/health")
+    public ResponseEntity<?> health(){
+        return ResponseEntity.ok().body("Inventory service running");
+    }
     @GetMapping("/ingredients")
     public ResponseEntity<String> getAllIngredients(){
         return ResponseEntity.ok().body("getAllIngredients");
