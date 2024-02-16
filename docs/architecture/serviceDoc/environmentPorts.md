@@ -5,4 +5,4 @@ This document describes the different backend services and their port numbers ac
 | Backend Service | Description | Dev | Test | Staging | Prod |
 |---|---|---|---|---|---|
 |---|---|---|---|---|---|
-| **InventoryService** | Handles user authentication and authorization. | `8080` | `8090` | `9000` | `9010` |
+| **InventoryService** | Handles user authentication and authorization. | `8000` | `9000` | `9020` | `9040` |
