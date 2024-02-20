@@ -1,12 +1,27 @@
 name: ca-ui
 
 on:
-  push:
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Deployment environment'
+        required: true
+        type: choice
+        options:
+          - dev
+          - prod
 
 jobs:
   build:
+    env:
+      DEPLOY_ENV: dev
     runs-on: ubuntu-latest
     steps:
       - name: print ca-ui
+        if: ${{ github.event.inputs.environment == 'dev' }}
         run: |
-          echo "ca-ui: build"
+          echo "ca-ui: build dev"
+      - name: Deploy to staging
+        if: ${{ github.event.inputs.environment == 'prod' }}
+        run: |
+          echo "ca-ui: build prod"
