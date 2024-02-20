@@ -1,1 +1,6 @@
+### api
 api/menuService/cdk.json
+
+### ui
+ui/node_modules
+ui/package-lock.json
