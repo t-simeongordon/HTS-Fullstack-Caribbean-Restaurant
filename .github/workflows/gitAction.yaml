@@ -13,8 +13,6 @@ on:
 
 jobs:
   build:
-    env:
-      DEPLOY_ENV: dev
     runs-on: ubuntu-latest
     steps:
       - name: print ca-ui
