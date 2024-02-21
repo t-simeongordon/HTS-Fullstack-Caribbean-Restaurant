@@ -5,12 +5,6 @@ import Header from './components/header';
 
 
 const App = () => {
-  const navigate = useNavigate();
-
-  // Handle back/forward navigation
-  const handleHistory = (direction: 'back' | 'forward') => {
-    navigate(direction);
-  };
 
   return (
     <div>
