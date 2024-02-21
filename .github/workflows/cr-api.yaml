@@ -1,6 +1,6 @@
 name: cr-ui
 
-run-name: CR-UI | DEBUG - ${{ inputs.debug }}
+run-name: CR-API | DEBUG - ${{ inputs.debug }}
 
 on:
   push: 
