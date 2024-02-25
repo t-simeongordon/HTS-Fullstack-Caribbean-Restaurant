@@ -1,7 +1,8 @@
 ### api
 ## menuService
 api/menuService/node_modules
-api/menuService/cdk.json
+#api/menuService/cdk.json
+api/menuService/cdk.out
 
 ### ui
 ui/node_modules
