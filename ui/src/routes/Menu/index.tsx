@@ -1,11 +1,12 @@
-import MenuList from "./MenuList"
-
+import MenuDisplay from "./MenuDisplay"
+import SideBar from './SideBar'
+import "./Menu.css"
 const Menu =()=> {
     return(
-        <>
-            <div>menu</div>
-            <MenuList itemsPerPage={3}/>
-        </>
+        <div className="menu-container">
+            <SideBar />
+            <MenuDisplay itemsPerPage={3}/>
+        </div>
     )
 }
 

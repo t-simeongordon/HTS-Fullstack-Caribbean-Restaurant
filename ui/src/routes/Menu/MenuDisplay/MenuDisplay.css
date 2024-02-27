@@ -1,4 +1,3 @@
-/* MenuList.css */
 .pagination {
   display: flex;
   list-style: none;
@@ -18,3 +17,9 @@
   background-color: #af4c4c;
   color: white;
 }
+
+.menu-display-container {
+  display: flex;
+  flex-direction: column;
+  background-color: aquamarine;
+}  

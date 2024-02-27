@@ -1,0 +1,6 @@
+.sidebar-conatainer{
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+    padding: 2%;
+}
