@@ -16,7 +16,9 @@
     cursor: pointer;
     padding: 10px;
     margin: 0 5px;
-    border: 1px solid #ddd;
+    background-color: rgb(240, 192, 128);
+    color: rgb(0, 0, 0);
+    border: 2px solid #ddd;
     border-radius: 4px;
   }
   
@@ -25,3 +27,28 @@
     color: white;
   }
   
+  .pagination li.hover {
+    background-color: #6079a5;
+    color: white;
+  }
+
+/* 
+  .pagination {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .pagination li {
+    cursor: pointer;
+    padding: 10px;
+    margin: 0 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .pagination li.active {
+    background-color: #af4c4c;
+    color: white;
+  } */

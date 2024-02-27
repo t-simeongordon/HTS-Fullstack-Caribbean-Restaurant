@@ -17,7 +17,7 @@ const CustomPagination = ({ totalItems, itemsPerPage, onPageChange }:any) => {
       pages.push(
         <li
           key={i}
-          className={i === currentPage ? "active" : ""}
+          className={i === currentPage ? "active" : "dave"}
           onClick={() => handlePageChange(i)}
         >
           {i}
@@ -28,9 +28,12 @@ const CustomPagination = ({ totalItems, itemsPerPage, onPageChange }:any) => {
   };
 
   return (
-    <div className="custom-pagination">
+    <div className="pagination">
+      <div className="custom-pagination">
       <ul>{renderPaginationItems()}</ul>
     </div>
+    </div>
+    
   );
 };
 
