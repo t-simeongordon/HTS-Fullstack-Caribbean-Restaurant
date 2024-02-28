@@ -2,9 +2,9 @@
     display: flex;
     flex-direction: column;
     background-color: blue;
-    padding: 2%;
+    padding: 3%;
 }
-/* 
-.sidebar-conatainer div {
-    width: 12rem;
-} */
+
+.sidebar{
+    width: 8rem;
+}

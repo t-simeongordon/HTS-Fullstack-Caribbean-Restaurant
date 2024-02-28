@@ -5,7 +5,7 @@ const SideBar = () =>{
     return (
         <>
             <section className="sidebar-conatainer">
-                <div>
+                <div className="sidebar">
                 sidebar
                 </div>
             </section>
