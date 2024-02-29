@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+html {
+  font-size: 62.5%; /* changes a default 16px font size to 10px */
+  /* https://blog.hubspot.com/website/css-rem#:~:text=Rem%20(short%20for%20%E2%80%9Croot%2D,1rem%20will%20also%20equal%2016px. */
+}
