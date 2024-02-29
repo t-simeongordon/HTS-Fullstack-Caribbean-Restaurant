@@ -1,3 +1,36 @@
 .card {
-    width: 25%;
+    margin: 20px;
+    border: 2px solid #ededed;
+    padding: 20px;
+    cursor: pointer;
 }
+
+
+.card-img {
+    width: 13rem;
+    margin-bottom: 1rem;
+  }
+  
+  .card-title {
+    margin-bottom: 1rem;
+  }
+
+  .card-description {
+    margin-bottom: 1rem;
+    display: flex;
+  }
+  
+  .rating-star {
+    color: #d5ab55;
+  }
+  
+  .total-reviews {
+    font-size: 0.9rem;
+    margin-left: 10px;
+  }
+  
+  .card-price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }

@@ -5,7 +5,7 @@ const Menu =()=> {
     return(
         <div className="menu-container">
             <SideBar />
-            <MenuDisplay itemsPerPage={3}/>
+            <MenuDisplay itemsPerPage={6}/>
         </div>
     )
 }

@@ -1,13 +1,5 @@
  
-.cards {
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    width: 100rem;
-    background-color: bisque;
-  }
+
   
   /* .cards__item {
     display: flex;

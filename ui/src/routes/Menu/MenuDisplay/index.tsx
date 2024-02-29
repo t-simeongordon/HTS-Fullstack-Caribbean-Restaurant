@@ -4,6 +4,7 @@ import CustomPagination from "./CustomPagination";
 import "./MenuDisplay.css";
 import { foodData } from "../dummyData";
 import MenuList from "./MenuList";
+import { MenuItems } from "../../../model/menu/MenuList";
 
 const MenuDisplay = (prop:any) => {
     const { itemsPerPage } = prop
@@ -14,11 +15,14 @@ const MenuDisplay = (prop:any) => {
   };
 
   const offset = (currentPage - 1) * itemsPerPage;
-  const currentPageData = foodData.slice(offset, offset + itemsPerPage);
+  const currentPageData:MenuItems = {
+    menuItems: foodData.slice(offset, offset + itemsPerPage),
+  };
+  const result = MenuList(currentPageData)
 
   return (
     <div className="menu-display-container">
-        <MenuList menuItems={currentPageData} />
+        <div className="cards">{result}</div>
         <CustomPagination
           totalItems={foodData.length}
           itemsPerPage={itemsPerPage}
