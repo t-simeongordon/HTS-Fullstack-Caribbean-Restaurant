@@ -32,12 +32,12 @@ public class MenuItemEntity {
     /**
      * inStock value
      */
-    private String inStock;
+    private boolean inStock;
 
     /**
      * price value
      */
-    private String price;
+    private int price;
 
     /**
      * description value
@@ -47,16 +47,16 @@ public class MenuItemEntity {
     /**
      * starRating value
      */
-    private String starRating;
+    private int starRating;
 
     /**
      * allergens value
      */
-    private String allergens;
+    private String[] allergens;
 
     /**
      * kcal value
      */
-    private String kcal;
+    private int kcal;
 }
 
