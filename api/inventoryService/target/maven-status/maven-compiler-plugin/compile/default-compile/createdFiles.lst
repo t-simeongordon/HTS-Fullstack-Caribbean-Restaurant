@@ -1,0 +1,12 @@
+com/htc/caribbeanrestaurant/CaribbeanRestaurantApplication.class
+com/htc/caribbeanrestaurant/model/Ingredients.class
+com/htc/caribbeanrestaurant/model/Ingredient$IngredientBuilder.class
+com/htc/caribbeanrestaurant/model/Ingredient.class
+com/htc/caribbeanrestaurant/model/MenuItem.class
+com/htc/caribbeanrestaurant/repository/MenuItemRepository.class
+com/htc/caribbeanrestaurant/service/InventoryService.class
+com/htc/caribbeanrestaurant/model/Ingredients$IngredientsBuilder.class
+com/htc/caribbeanrestaurant/service/InventoryServiceImpl.class
+com/htc/caribbeanrestaurant/controller/InventoryController.class
+com/htc/caribbeanrestaurant/entity/MenuItemEntity$MenuItemEntityBuilder.class
+com/htc/caribbeanrestaurant/entity/MenuItemEntity.class

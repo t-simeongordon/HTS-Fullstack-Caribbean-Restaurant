@@ -27,7 +27,7 @@ public class MenuItemEntity {
     /**
      * imgUrl value
      */
-    private String imgUrl;
+    private String imageUrl;
 
     /**
      * inStock value
