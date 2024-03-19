@@ -1,7 +1,7 @@
 export interface MenuData {
     img: string; 
     name: string; 
-    inStock: boolean, 
+    available: boolean, 
     price: number; 
     description: string; 
     starRating: number; 
@@ -13,7 +13,7 @@ export interface MenuItem {
     id: string;
     img: string; 
     name: string; 
-    inStock: boolean, 
+    available: boolean, 
     price: number; 
     description: string; 
     starRating: number; 
