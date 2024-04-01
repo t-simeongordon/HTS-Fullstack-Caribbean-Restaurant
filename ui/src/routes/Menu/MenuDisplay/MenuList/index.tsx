@@ -20,12 +20,12 @@ const MenuList =({ menuItems }: MenuItems)=>{
     return (
         <>
         <div id="card-container">
-      {menuItems.map(({ id, img, name, inStock, price, description, starRating, kcal, allergens }:MenuItem) => (
+      {menuItems.map(({ id, img, name, available, price, description, starRating, kcal, allergens }:MenuItem) => (
             <Card
             key={id}
             img={img} 
             name={name} 
-            inStock={inStock} 
+            available={available} 
             price={price} 
             description={description} 
             starRating={starRating} 

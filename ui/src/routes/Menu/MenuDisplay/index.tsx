@@ -52,8 +52,8 @@ const MenuDisplay = (prop:any) => {
     // Applying selected filter
     if (selected) {
       const temp = filteredMenu.menuItems.filter(
-        ({ inStock, price, starRating }) => 
-          inStock === selected ||
+        ({ available, price, starRating }) => 
+        available === selected ||
           price === selected ||
           starRating === selected
       );

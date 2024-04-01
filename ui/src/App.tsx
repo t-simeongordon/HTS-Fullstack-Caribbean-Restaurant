@@ -6,10 +6,10 @@ import Header from './components/header';
 const App = () => {
 
   return (
-    <div>
-      <Header/>
+    <div>gg
+      {/* <Header/>
       <Outlet/>
-      <Footer/>
+      <Footer/> */}
     </div>
   );
 };
